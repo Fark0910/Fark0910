@@ -4,8 +4,8 @@ Welcome to my GitHub! I'm passionate about building efficient, scalable applicat
 
 ---
 
-- 👀 I’m interested in **Web Development, Mobile App Development, Backend Engineering, IoT Projects, 3D Designing, Video Editing, and Data Visualization**
-- 🌱 I’m currently learning **Advanced Backend Development**, **React Native**, **IoT with ESP32**, **3D Animation**, and **Creative Editing**
+- 👀 I’m interested in **Web Development, Native App Development, Backend Engineering, IoT Projects, 3D Designing, Video Editing, and Data Visualization**
+- 🌱 I’m currently learning **Advanced Backend Development**, **React Native**, **IoT with ESP32**.
 - 💬 I love creating, building, and constantly thinking of ways to bring ideas into reality.
 - 💞️ I’m looking to collaborate on **exciting web, mobile, IoT, and creative tech projects**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/fardeen-khan-469960256/)** | **[GitHub](https://github.com/Fark0910)**
