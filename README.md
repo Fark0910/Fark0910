@@ -81,7 +81,7 @@ Instead of scattered images, SnapNLearn **stacks your screenshots by topic**, he
 
 
 ---
-Screenshot_2025-05-18_130419-removebg-preview.png
+
 
 
 
