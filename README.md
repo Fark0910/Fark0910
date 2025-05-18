@@ -70,7 +70,13 @@ Instead of scattered images, SnapNLearn **stacks your screenshots by topic**, he
 
 
 ---
+### 🏅 My Contribution Badges
 
+<!-- Example badge 1 -->
+<img src="https://drive.google.com/file/d/1VsqsBivfrLfqCFwuMXgv2k3WK3E_0TIp/view" alt="Ssoc" width="300"/>
+
+<!-- Example badge 2 -->
+<img src="https://mail.google.com/mail/u/0/#search/girl+script+summer/FMfcgzGsmXCPxMzStljfTVbgnksSGXGb?projector=1" alt="Gssoc'24 Badge" width="200"/>
 
 
 
