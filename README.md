@@ -73,10 +73,10 @@ Instead of scattered images, SnapNLearn **stacks your screenshots by topic**, he
 ### 🏅 My Contribution Badges
 
 <!-- Example badge 1 -->
-<img src="https://raw.githubusercontent.com/FARK0910/Fark0910/main/unnamed-removebg-preview.png" alt="Ssoc" width="300"/>
+<img src="https://raw.githubusercontent.com/FARK0910/Fark0910/main/unnamed-removebg-preview.png" alt="Gssoc'24" width="300"/>
 
 <!-- Example badge 2 -->
-<img src="https://raw.githubusercontent.com/FARK0910/Fark0910/main/Screenshot_2025-05-18_130419-removebg-preview.png" alt="Gssoc'24 Badge" width="200"/>
+<img src="https://raw.githubusercontent.com/FARK0910/Fark0910/main/Screenshot_2025-05-18_130419-removebg-preview.png" alt="Ssoc'25 Badge" width="300" style="background-color:#000; padding:10px; display:inline-block; border:2px solid white; border-radius:10px;"/>
 
 
 
