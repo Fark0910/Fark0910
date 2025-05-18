@@ -80,9 +80,9 @@ Instead of scattered images, SnapNLearn **stacks your screenshots by topic**, he
 <img src="https://raw.githubusercontent.com/FARK0910/Fark0910/main/Contributor SSOC.png" alt="SSOC'25 Badge" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   
 </div>
-<div style="display:block">
+<div style="display:flex;flex-direction:column;gap: 20px;">
 <h3>GSsoc'24 Contributor</h3>
-<h3 style="margin-left:20px">SSsoc'25 Contributor ongoing</h3>
+<h3>SSsoc'25 Contributor ongoing</h3>
 </div>
 
 
