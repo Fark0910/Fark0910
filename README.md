@@ -77,11 +77,13 @@ Instead of scattered images, SnapNLearn **stacks your screenshots by topic**, he
 <img src="https://raw.githubusercontent.com/FARK0910/Fark0910/main/unnamed-removebg-preview.png" alt="Gssoc'24" width="300"/>
 
 <!-- Example badge 2 -->
-<img src="https://raw.githubusercontent.com/FARK0910/Fark0910/main/Contributor SSOC.png" alt="SSOC'25 Badge" width="300" />
+<img src="https://raw.githubusercontent.com/FARK0910/Fark0910/main/Contributor SSOC.png" alt="SSOC'25 Badge" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   
 </div>
-
-
+<div style="display:inline-block">
+<h1>GSsoc'24 Contributor</h1>
+<h1 style="margin-left:20px">SSsoc'25 Contributor ongoing</h1>
+</div>
 
 
 ---
