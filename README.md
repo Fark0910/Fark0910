@@ -62,12 +62,9 @@ Welcome to my GitHub! I'm passionate about building efficient, scalable applicat
 ---
 
 ## 🚀 Upcoming Project
-![Coming Soon](https://img.shields.io/badge/SnapNLearn-Coming%20Soon-blue?style=for-the-badge)
-**SnapNLearn**  
-A smart mobile platform designed to **capture, organize, and summarize** your learning journey through screenshots.  
-Instead of scattered images, SnapNLearn **stacks your screenshots by topic**, helping you **remember key points easily** and **review summaries quickly**.  
-(Currently under development — stay tuned!)
-
+![Coming Soon](https://img.shields.io/badge/CRM-Coming%20Soon-blue?style=for-the-badge)
+**Blue Ink Admin CRM**  
+Content management system for uploading Video content, built with typeScript and some fundamental system design concepts.The final website will be Scaled, containerized and deployed on relevant platform.
 
 ---
 ### 🏅 My Contribution Badges
