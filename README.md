@@ -78,15 +78,14 @@ Content management system for uploading Video content, built with typeScript and
   
 </div>
 <div style="display:flex;flex-direction:row;gap: 20px;">
-<h3>GSsoc'24 Contributor</h3>
+<h3>GSsoc'23 Contributor</h3>
 <h3>SSsoc'25 Contributor ongoing</h3>
 </div>
 
-
----
-
-
-
+### 🎥 Contribution certificate
+- SSsoc'25: **[sssoc](https://ssoc25.sandru.win/Certificates/Participants/c907181d393c1c3615d06a610b51fe20far.png)**
+- IIIT Gwalior-Hacksagon Hackathon'25: **[hacksagon](https://drive.google.com/file/d/1likXN9T_xE3UEB8-PY6lIfQ5q4Swirop/view?usp=drive_link)**
+- JMI-Webdash Hackathon'25: **[webdash](https://certificate.givemycertificate.com/c/507c4e8e-4773-476a-b9cf-c049d82d633c)**
 
 
 
