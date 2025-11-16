@@ -22,6 +22,9 @@ Welcome to my GitHub! I'm passionate about building efficient, scalable applicat
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![Nexios](https://img.shields.io/badge/Nexios-4B9CD3?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-143?style=for-the-badge&logo=pydantic&logoColor=white)
+
 
 ### CSS Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
