@@ -87,6 +87,9 @@ Content management system for uploading Video content, built with typeScript and
 - IIIT Gwalior-Hacksagon Hackathon'25: **[hacksagon](https://drive.google.com/file/d/1likXN9T_xE3UEB8-PY6lIfQ5q4Swirop/view?usp=drive_link)**
 - JMI-Webdash Hackathon'25: **[webdash](https://certificate.givemycertificate.com/c/507c4e8e-4773-476a-b9cf-c049d82d633c)**
 
+### Other Profiles
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-black?logo=github)](https://github.com/WebCrawler200)
+
 
 
 > ✨ This is a special repository because its `README.md` appears on my GitHub profile!  
